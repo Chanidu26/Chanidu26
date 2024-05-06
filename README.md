@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
- 
-  <a href="https://www.linkedin.com/in/chanidu-karunarathna-11ab5b275/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/></a> |
-  <a href="https://www.behance.net/chanidukarunarathna"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="Behance" width="20" height="20"/></a> |
-  <a href="https://www.hackerrank.com/profile/ckkarunarathna26"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-plain.svg" alt="HackerRank" width="20" height="20"/></a> |
-  <a href="ckkarunarathna26@gmail.com"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Gmail" width="20" height="20"/></a>
+<a href="https://www.linkedin.com/in/chanidu-karunarathna-11ab5b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+
+<a href="https://www.behance.net/chanidukarunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"  height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ckkarunarathna26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
