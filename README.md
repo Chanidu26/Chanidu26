@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 
+- 💬 Ask me about *react*
+
+- 📫 How to reach me *ckkarunarathna26@gmail.com*
+
 <h3 align="left">Connect with me:</h3>
 
 
