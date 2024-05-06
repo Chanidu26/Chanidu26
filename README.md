@@ -5,6 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+  <a href="https://www.linkedin.com/in/chanidu-karunarathna-11ab5b275/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/></a> |
+  <a href="https://www.behance.net/chanidukarunarathna"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="Behance" width="20" height="20"/></a> |
+  <a href="https://www.hackerrank.com/profile/ckkarunarathna26"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-plain.svg" alt="HackerRank" width="20" height="20"/></a> |
+  <a href="ckkarunarathna26@gmail.com"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Gmail" width="20" height="20"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
