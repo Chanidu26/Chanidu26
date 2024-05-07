@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 
+![Chanidu26's Stats](https://github-readme-stats.vercel.app/api?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Chanidu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chanidu26&theme=vue-dark&hide_border=true)
+![Chanidu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
 - 💬 Ask me about *react*
 - 📫 How to reach me *ckkarunarathna26@gmail.com*
 - 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
