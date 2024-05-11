@@ -1,17 +1,23 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
 <h3 align="center">A passionate Computer Engineering Undergraduate</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
-
-![Chanidu26's Stats](https://github-readme-stats.vercel.app/api?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Chanidu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chanidu26&theme=vue-dark&hide_border=true)
-![Chanidu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 - 💬 Ask me about *react*
 - 📫 How to reach me *ckkarunarathna26@gmail.com*
 - 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
-- - ⚡ Fun fact **I'am Funny**
+- ⚡ Fun fact **I'am Funny**
+
+![Chanidu26's Stats](https://github-readme-stats.vercel.app/api?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Chanidu26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chanidu26&theme=vue-dark&hide_border=true)
+![Chanidu26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanidu26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 
