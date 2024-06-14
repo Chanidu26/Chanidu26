@@ -31,7 +31,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,aws,gcp,azure,react,mongodb,flutter,activitypub,androidstudio,angular,appwrite" />
+<img src="https://skillicons.dev/icons?i=git,python,java,mysql,kubernetes,docker,c,js,aws,gcp,azure,react,mongodb,flutter,activitypub,androidstudio,angular,appwrite" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="buy me a coffee" /></a>
