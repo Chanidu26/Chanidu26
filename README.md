@@ -1,14 +1,13 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
 <h3 align="center">A passionate Computer Engineering Undergraduate</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 
 
 - 💬 Ask me about *react*
-- 🕵️‍♀️ Pronouns: He/Him
+- 🕵️‍♀️ Pronouns: He/Him 
 - 📫 How to reach me *ckkarunarathna26@gmail.com*
 - 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
 - 👀 I’m interested in AI, ML & Full-Stack web dev
@@ -34,4 +33,8 @@
 <img src="https://skillicons.dev/icons?i=git,python,java,mysql,kubernetes,docker,c,js,aws,gcp,azure,react,mongodb,flutter,activitypub,androidstudio,angular,appwrite" />
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="buy me a coffee" /></a>
+<p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a>
+
+
+
+
