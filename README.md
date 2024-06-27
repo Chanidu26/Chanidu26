@@ -48,6 +48,11 @@
     </a>
 </div>
 
+<h3 align ="center">Acheivements</h3>
+<div align=center>
+  <img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
