@@ -66,7 +66,9 @@
 <a href="https://www.linkedin.com/in/chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://medium.com/@chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://behance.com/@chanidukarunarathna/" target="blank"><img align="center" src="https://camo.githubusercontent.com/d87140658bdfd5f01e1de9633e286aac3be4106024f3bae31dd813dda8f61e48/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626568616e63652f626568616e63652d6f726967696e616c2e737667" alt="behance" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/ckkarunarathna26/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerank" height="50" width="50" /></a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
