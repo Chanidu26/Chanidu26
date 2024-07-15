@@ -5,8 +5,7 @@
 <h3 align="center">A passionate Computer Engineering Undergraduate | Graphic Designer | Volunteer | Blogger | Software Engineering Enthusiast</h3>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 <div align="center">
