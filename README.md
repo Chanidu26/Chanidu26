@@ -47,6 +47,11 @@
     </a>
 </div>
 
+<h3 align="center">Contributions:</h3>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanidu26&bg_color=000000&color=ffffff&line=4c8d30&point=2b9185&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3 align ="center">Acheivements:</h3>
 <div align=center>
   <img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
