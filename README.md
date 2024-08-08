@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate | Graphic Designer | Volunteer | Blogger | Software Engineering Enthusiast</h3>
+<h3 align="center">A passionate Computer Engineering Undergraduate | Graphic Designer | Volunteer | Blogger | DevOps Enthusiast</h3>
 
 <div align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -17,9 +17,9 @@
 - 🕵️‍♀️ Pronouns: He/Him 
 - 📫 How to reach me *ckkarunarathna26@gmail.com*
 - 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
-- 👀 I’m interested in **AI, ML & Full-Stack web dev**
+- 👀 I’m interested in **DevOps & Back-end web dev**
 - 🌱 I’m currently reading **Computer Engineering at UoR**
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React Node Java Docker Kubernetes**
   
 
 <h3 align="center">Github Stats:</h3>
