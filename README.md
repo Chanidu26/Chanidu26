@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate | Graphic Designer | Volunteer | Blogger | DevOps and Cloud Enthusiast</h3>
+<h3 align="center">A passionate Computer Engineering Undergraduate |  DevOps and Cloud Computing Enthusiast | Machine Learning and AI Enthusiast</h3>
 
 <div align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -13,13 +13,13 @@
 </div>
 
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **DevOps**
 - 🕵️‍♀️ Pronouns: He/Him 
 - 📫 How to reach me *ckkarunarathna26@gmail.com*
 - 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
-- 👀 I’m interested in **DevOps & Back-end web dev**
+- 👀 I’m interested in **DevOps | Cloud Computing | Machine Learning | Ai | Web Development**
 - 🌱 I’m currently reading **Computer Engineering at UoR**
-- 🔭 I’m currently working on **React Node Java Docker Kubernetes**
+- 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
   
 
 <h3 align="center">Github Stats:</h3>
@@ -63,7 +63,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://medium.com/@chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/ckkarunarathna26/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerank" height="50" width="50" /></a>
 </p>
 
 
