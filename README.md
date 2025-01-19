@@ -13,12 +13,12 @@
 </div>
 
 
-- 💬 Ask me about **DevOps**
-- 🕵️‍♀️ Pronouns: He/Him 
-- 📫 How to reach me *ckkarunarathna26@gmail.com*
-- 📝 I regularly write articles on [https://medium.com/@chanidukarunarathna](https://medium.com/@chanidukarunarathna)
+- 💬 Ask me about **DevOps | Cloud**
+- 🕵️‍♀️ Pronouns: **He/Him**
+- 📫 Reach me *ckkarunarathna26@gmail.com*
+- 📝 I regularly write articles on [Medium](https://medium.com/@chanidukarunarathna)
 - 👀 I’m interested in **DevOps | Cloud Computing | Machine Learning | Ai | Web Development**
-- 🌱 I’m currently reading **Computer Engineering at UoR**
+- 🌱 I’m currently reading **Computer Engineering at University of Ruhuna**
 - 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
   
 
