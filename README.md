@@ -12,15 +12,20 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 </div>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">About Me:</h3>
 
-- 💬 Ask me about **DevOps | Cloud**
+<table align="center">
+<tr border="none">
+
+- 💬 Ask me about **DevOps | Cloud | ML | AI**
 - 🕵️‍♀️ Pronouns: **He/Him**
-- 📫 Reach me *ckkarunarathna26@gmail.com*
+- 📫 Reach me [Gmail](ckkarunarathna26@gmail.com)
 - 📝 I regularly write articles on [Medium](https://medium.com/@chanidukarunarathna)
 - 👀 I’m interested in **DevOps | Cloud Computing | Machine Learning | Ai | Web Development**
 - 🌱 I’m currently reading **Computer Engineering at University of Ruhuna**
 - 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
+</tr>
+</table>
   
 
 <h3 align="center">Github Stats:</h3>
@@ -52,10 +57,31 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanidu26&bg_color=000000&color=ffffff&line=4c8d30&point=2b9185&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,photoshop,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,java,js,nodejs,py,ts&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">Web Development:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postgres,express,figma,firebase,github,html,mongodb,mysql,nextjs,nodejs,react,redux,tailwind&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">DevOps:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,github,linux,nginx,ansible,terraform,kubernetes,azure&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,photoshop,postman,vscode&perline=14" />
   </a>
 </p>
 
