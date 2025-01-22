@@ -19,10 +19,10 @@
 
 - 💬 Ask me about **DevOps | Cloud | ML | AI**
 - 🕵️‍♀️ Pronouns: **He/Him**
-- 📫 Reach me [Gmail](ckkarunarathna26@gmail.com)
+- 📫 Reach me on [Gmail](ckkarunarathna26@gmail.com)
 - 📝 I regularly write articles on [Medium](https://medium.com/@chanidukarunarathna)
 - 👀 I’m interested in **DevOps | Cloud Computing | Machine Learning | Ai | Web Development**
-- 🌱 I’m currently reading **Computer Engineering at University of Ruhuna**
+- 🌱 I’m currently reading **Bsc (Hons) in Computer Engineering at University of Ruhuna**
 - 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
 </tr>
 </table>
