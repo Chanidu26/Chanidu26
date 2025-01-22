@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate |  DevOps and Cloud Computing Enthusiast | Machine Learning and AI Enthusiast</h3>
+<h3 align="center">A passionate Computer Engineering Undergraduate | DevOps and Cloud Computing Enthusiast</h3>
 
 <div align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -12,6 +12,7 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 </div>
 
+<h3 align="center">About Me</h3>
 
 - 💬 Ask me about **DevOps | Cloud**
 - 🕵️‍♀️ Pronouns: **He/Him**
