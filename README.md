@@ -35,16 +35,13 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chanidu26&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanidu26&theme=dark&hide_border=false" /> 
+<td width="45%" align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chanidu26&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 </td>
 
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chanidu26&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
+<td width="55%" align="center">
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chanidu26&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+</td>
 </tr>
 </table>
 
