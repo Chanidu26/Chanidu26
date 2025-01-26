@@ -12,6 +12,8 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanidu26&label=Profile%20views&color=0e75b6&style=flat" alt="chanidu26" /> </p>
 </div>
 
+<hr>
+
 <h3 align="center">About Me:</h3>
 
 <table align="center">
@@ -26,9 +28,11 @@
 - 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
 </tr>
 </table>
-  
 
+<hr>
+  
 <h3 align="center">Github Stats:</h3>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -39,23 +43,28 @@
 </td>
 
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chanidu26&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
 
+<hr>
+
 <h3 align="center">Trophies:</h3>
+
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Chanidu26&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
+<hr>
+
 <h3 align="center">Contributions:</h3>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanidu26&bg_color=000000&color=ffffff&line=4c8d30&point=2b9185&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
@@ -85,7 +94,7 @@
   </a>
 </p>
 
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
