@@ -49,16 +49,6 @@ I'm Chanidu Karunarathna . 3rd Year Computer Engineering Undergraduate from Univ
 
 <hr>
 
-<h3 align="center">Trophies:</h3>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Chanidu26&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<hr>
-
 <h3 align="center">Contributions:</h3>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanidu26&bg_color=000000&color=ffffff&line=4c8d30&point=2b9185&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
