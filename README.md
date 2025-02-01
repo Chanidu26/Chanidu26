@@ -19,6 +19,8 @@
 <table align="center">
 <tr border="none">
 
+I'm Chanidu Karunarathna . 3rd Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps and Cloud Computing Domains with building automated streamline workflows. And also Passionate for problem solving with bringing Innovative software solutions.
+
 - 💬 Ask me about **DevOps | Cloud | ML | AI**
 - 🕵️‍♀️ Pronouns: **He/Him**
 - 📫 Reach me on [Gmail](ckkarunarathna26@gmail.com)
