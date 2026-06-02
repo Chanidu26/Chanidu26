@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Chanidu Karunarathna</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate | DevOps and Cloud Computing Enthusiast</h3>
+<h3 align="center">Computer Engineering Undergraduate | AWS Certified Solution Architect - Associate | DevOps | SRE | Cloud | Platform Engineering</h3>
 
 <div align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
