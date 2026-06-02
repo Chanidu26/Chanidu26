@@ -19,15 +19,15 @@
 <table align="center">
 <tr border="none">
 
-I'm Chanidu Karunarathna . 3rd Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps and Cloud Computing Domains with building automated streamline workflows. And also Passionate for problem solving with bringing Innovative software solutions.
+I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps, Cloud Computing, Site Reliability and Platform Engineering Domains.
 
-- 💬 Ask me about **DevOps | Cloud | ML | AI**
+- 💬 Ask me about **DevOps | Cloud | SRE | Platform**
 - 🕵️‍♀️ Pronouns: **He/Him**
 - 📫 Reach me on [Gmail](ckkarunarathna26@gmail.com)
 - 📝 I regularly write articles on [Medium](https://medium.com/@chanidukarunarathna)
-- 👀 I’m interested in **DevOps | Cloud Computing | Machine Learning | Ai | Web Development**
-- 🌱 I’m currently reading **Bsc (Hons) in Computer Engineering at University of Ruhuna**
-- 🔭 I’m currently working on **React NodeJs CICD Jenkins Docker Kubernetes**
+- 👀 I’m interested in **DevOps | Cloud | Kubernetes | Agentic Ai | System Design**
+- 🌱 I’m currently reading **Bsc Eng (Hons) in Computer Engineering at University of Ruhuna**
+- 🔭 I’m currently working on **Kubernetes**
 </tr>
 </table>
 
@@ -72,7 +72,21 @@ I'm Chanidu Karunarathna . 3rd Year Computer Engineering Undergraduate from Univ
 <h3 align="center">DevOps:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,github,linux,nginx,ansible,terraform,kubernetes,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,github,gitlab,linux,ansible,terraform,kubernetes&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">Cloud:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">Monitoring and Observebility:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=14" />
   </a>
 </p>
 
