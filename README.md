@@ -35,17 +35,9 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
   
 <h3 align="center">Github Stats:</h3>
 
-<table align="center">
-<tr border="none">
-<td width="45%" align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chanidu26&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-</td>
-
-<td width="55%" align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chanidu26&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=Chanidu26&v=1" alt="My GitHub Stats" />
+</div>
 
 <hr>
 
