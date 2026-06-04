@@ -32,6 +32,14 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
 </table>
 
 <hr>
+
+<h1 align="center">Badges and Credentials:</h1> 
+
+<div align="center">
+  <img height="150" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Badge">
+</div>
+
+<hr>
   
 <h1 align="center">Github Stats:</h1>
 
