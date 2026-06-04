@@ -14,7 +14,7 @@
 
 <hr>
 
-<h3 align="center">About Me:</h3>
+<h1 align="center">About Me:</h1>
 
 <table align="center">
 <tr border="none">
@@ -33,7 +33,7 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
 
 <hr>
   
-<h3 align="center">Github Stats:</h3>
+<h1 align="center">Github Stats:</h1>
 
 <div align="center">
   <img src="https://github-all-stats.vercel.app/api?username=Chanidu26&v=1" alt="My GitHub Stats" />
@@ -41,11 +41,13 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
 
 <hr>
 
-<h3 align="center">Contributions:</h3>
+<h1 align="center">Contributions:</h1>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanidu26&bg_color=000000&color=ffffff&line=4c8d30&point=2b9185&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
+
+<h1 align="center">Technologies:</h1>
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
@@ -90,7 +92,7 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
 </p>
 
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://medium.com/@chanidukarunarathna/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
