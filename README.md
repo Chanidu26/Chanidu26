@@ -19,7 +19,7 @@
 <table align="center">
 <tr border="none">
 
-I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps, Cloud Computing, Site Reliability and Platform Engineering Domains.
+I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps, Cloud Computing, Site Reliability Engineering and Platform Engineering Domains.
 
 - 💬 Ask me about **DevOps | Cloud | SRE | Platform**
 - 🕵️‍♀️ Pronouns: **He/Him**
