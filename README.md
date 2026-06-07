@@ -37,8 +37,8 @@ I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from Uni
 
 <div align="center">
   <img height="150" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Badge">
-  <img height="150" src="https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="Badge">
-   <img height="150" src="https://logionblog.wordpress.com/wp-content/uploads/2020/12/microsoft-certified-azure-administrator-associate-az-104-11.png" alt="Badge">
+  <!-- <img height="150" src="https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="Badge">
+   <img height="150" src="https://logionblog.wordpress.com/wp-content/uploads/2020/12/microsoft-certified-azure-administrator-associate-az-104-11.png" alt="Badge"> -->
 </div>
 
 <hr>
