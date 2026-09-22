@@ -19,7 +19,11 @@
 <table align="center">
 <tr border="none">
 
-I'm Chanidu Karunarathna. Final Year Computer Engineering Undergraduate from University of Ruhuna. I'm very interested in working on DevOps, Cloud Computing, Site Reliability Engineering and Platform Engineering Domains.
+I’m Chanidu Karunarathna, Graduate at Department of Computer Engineering University of Ruhuna. 
+
+I Deeply Passionate about DevOps, Cloud Native, SRE, Platform Engineering Domains. I have hands-on experience working with AWS, Azure, Docker, Jenkins, GitLab CI/CD, Github Actions, Terraform, Ansible, Kubernetes and monitoring tools such as Grafana Loki, Fluent Bit, Promtail, Alloy. 
+
+I recently completed a DevOps Internship at GTN Technologies, where I gained hands-on experience on building real-world scalable, secure, and automated systems using modern DevOps practices, focusing on CI/CD automation, containerization, Monitoring, Logging and infrastructure as code.
 
 - 💬 Ask me about **DevOps | Cloud | SRE | Platform**
 - 🕵️‍♀️ Pronouns: **He/Him**
